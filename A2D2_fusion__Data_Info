@@ -1,0 +1,127 @@
+                                                                            Munich 
+cam_front_center =  54902
+cam_front_left =  54902
+cam_front_right =  54902
+cam_rear_center =  54980
+cam_side_left =  54980
+cam_side_right =  54980
+lid_cam_front_center =  27451
+lid_cam_front_left =  27451
+lid_cam_front_right =  27451
+lid_cam_rear_center = 27490
+lid_cam_side_left =  27490
+lid_cam_side_right =  27490
+acceleration_x =  183937
+acceleration_y =  183937
+acceleration_z =  183937
+accelerator_pedal =  91968
+accelerator_pedal_gradient_sign =  91968
+angular_velocity_omega_x =  183937
+angular_velocity_omega_y =  183937
+angular_velocity_omega_z =  183937
+brake_pressure =  91969
+distance_pulse_front_left =  45984
+distance_pulse_front_right =  45984
+distance_pulse_rear_left =  45984
+distance_pulse_rear_right =  45984
+latitude_degree =  4599
+latitude_direction =  4599
+longitude_degree =  4599
+longitude_direction =  4599
+pitch_angle =  91968
+roll_angle =  91968
+steering_angle_calculated =  91968
+steering_angle_calculated_sign =  91968
+vehicle_speed =  45984 
+
+
+
+
+
+                                                                       Gaimersheim
+
+cam_front_center =  31376
+cam_front_left =  31376
+cam_front_right =  31376
+cam_rear_center =  31438
+cam_side_left =  31438
+cam_side_right =  31438
+lid_cam_front_center =  15688
+lid_cam_front_left =  15688
+lid_cam_front_right =  15688
+lid_cam_rear_center = 15719
+lid_cam_side_left =  15719
+lid_cam_side_right =  15719
+acceleration_x =  105153
+acceleration_y =  105153
+acceleration_z =  105153
+accelerator_pedal =  52576
+accelerator_pedal_gradient_sign =  52576
+angular_velocity_omega_x =  105153
+angular_velocity_omega_y =  105153
+angular_velocity_omega_z =  105153
+brake_pressure =  52576
+distance_pulse_front_left =  26288
+distance_pulse_front_right =  26288
+distance_pulse_rear_left =  26288
+distance_pulse_rear_right =  26288
+latitude_degree =  2629
+latitude_direction =  2629
+longitude_degree =  2629
+longitude_direction =  2629
+pitch_angle =  52577
+roll_angle =  52577
+steering_angle_calculated =  52577
+steering_angle_calculated_sign =  52577
+vehicle_speed =  26288 
+
+
+
+                                                                      
+                                   
+
+
+                                                                               Ingolstadt    
+                                                                                                                                                           
+cam_front_center =  44464
+cam_front_left =  44464
+cam_front_right =  44464
+cam_rear_center =  44544
+cam_side_left =  44544
+cam_side_right =  44544
+lid_cam_front_center =  22232
+lid_cam_front_left =  22232
+lid_cam_front_right =  22232
+lid_cam_rear_center = 22272
+lid_cam_side_left =  22272
+lid_cam_side_right =  22272
+acceleration_x =  149041
+acceleration_y =  149041
+acceleration_z =  149041
+accelerator_pedal =  74520
+accelerator_pedal_gradient_sign =  74520
+angular_velocity_omega_x =  149041
+angular_velocity_omega_y =  149041
+angular_velocity_omega_z =  149041
+brake_pressure =  74521
+distance_pulse_front_left =  37260
+distance_pulse_front_right =  37260
+distance_pulse_rear_left =  37260
+distance_pulse_rear_right =  37260
+latitude_degree =  3726
+latitude_direction =  3726
+longitude_degree =  3726
+longitude_direction =  3726
+pitch_angle =  74520
+roll_angle =  74520
+steering_angle_calculated =  74520
+steering_angle_calculated_sign =  74520
+vehicle_speed =  37260
+
+
+
+
+                                                                              
+                                                                               
+                                                                               
+                                                                                          
